@@ -1,0 +1,15 @@
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\bin\Debug\net9.0\UmiNovoProjeto.exe
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\bin\Debug\net9.0\UmiNovoProjeto.deps.json
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\bin\Debug\net9.0\UmiNovoProjeto.runtimeconfig.json
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\bin\Debug\net9.0\UmiNovoProjeto.dll
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\bin\Debug\net9.0\UmiNovoProjeto.pdb
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\obj\Debug\net9.0\UmiNovoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\obj\Debug\net9.0\UmiNovoProjeto.AssemblyInfoInputs.cache
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\obj\Debug\net9.0\UmiNovoProjeto.AssemblyInfo.cs
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\obj\Debug\net9.0\UmiNovoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\obj\Debug\net9.0\UmiNovoProjeto.sourcelink.json
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\obj\Debug\net9.0\UmiNovoProjeto.dll
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\obj\Debug\net9.0\refint\UmiNovoProjeto.dll
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\obj\Debug\net9.0\UmiNovoProjeto.pdb
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\obj\Debug\net9.0\UmiNovoProjeto.genruntimeconfig.cache
+C:\Users\annan\repo_testcsharp\UmiNovoProjeto\obj\Debug\net9.0\ref\UmiNovoProjeto.dll
